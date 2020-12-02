@@ -1,3 +1,1 @@
-version:1.0.5
-released:2020-03-11
-download_url:https://www.website.com/gfne.zip
+1.0.5;2020-03-11;https://www.website.com/gfne.zip
